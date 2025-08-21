@@ -51,7 +51,7 @@ This project is built to address operational inefficiencies, enhance customer ex
 ## 📬 Contact
 
 Want to collaborate or learn more about the project?  
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/gaurab-rana-3569242b8) or email me at ranagaurav892@gmail.com
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/nutanamru/) or email me at nutanamru@gmail.com
 
 ---
 
