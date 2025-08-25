@@ -60,4 +60,4 @@ Let’s connect on [LinkedIn](https://www.linkedin.com/in/nutanamru/) or email m
 `#Salesforce` `#CRM` `#Apex` `#Automation` `#FashionTech` `#StudentProject` `#DataModeling` `#Trailblazer` `#HandsMenThreads`
 
 Link for project demo video - 
-https://drive.google.com/file/d/1Vtsvuya6VE3Al6pL1ucQieZdACopvt8K/view?usp=drive_link
+https://drive.google.com/file/d/1K-ue0oSnJn0ccfiBBpAtCspNdbd9R5Ve/view?usp=sharing
